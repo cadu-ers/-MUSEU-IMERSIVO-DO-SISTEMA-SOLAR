@@ -164,6 +164,8 @@ cd Planetarium-VR
 ---
 
 ## 📁 Estrutura do Projeto
+
+```
 Planetarium-VR/
 ├── Assets/
 │   ├── Scenes/
@@ -178,14 +180,19 @@ Planetarium-VR/
 │   │   ├── OrbitaPlaneta.cs
 │   │   └── RotacaoLocal.cs
 │   ├── Models/
-│   │   └── [Modelos 3D dos planetas]
+│   │   └── Planets of the Solar System
 │   ├── Prefabs/
-│   │   └── [Planets of the Solar System]
+│   │   └── Prefabs dos Planetas
 │   └── UI/
-│       └── [Canvas e elementos de UI]
+│       └── Canvas e Elementos de UI
 ├── ProjectSettings/
+│   └── Configurações do Unity
+├── Packages/
+│   └── Dependências do projeto
 ├── .gitignore
-└── README.md
+├── README.md
+└── planetio_VR.slnx
+```
 ---
 
 ## 🔍 Scripts Principais
