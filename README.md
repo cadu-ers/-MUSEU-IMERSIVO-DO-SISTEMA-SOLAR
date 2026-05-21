@@ -120,7 +120,7 @@ Cada planeta possui:
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/cadu-ers/Planetarium-VR.git
+git clone https://github.com/cadu-ers/-MUSEU-IMERSIVO-DO-SISTEMA-SOLAR.git
 cd Planetarium-VR
 ```
 
