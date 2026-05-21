@@ -164,3 +164,113 @@ cd Planetarium-VR
 ---
 
 ## 📁 Estrutura do Projeto
+Planetarium-VR/
+├── Assets/
+│   ├── Scenes/
+│   │   └── SistemaSolarVR.unity
+│   ├── Scripts/
+│   │   ├── GazeManager.cs
+│   │   ├── CameraZoom.cs
+│   │   ├── GazeCursor.cs
+│   │   ├── MouseLook.cs
+│   │   ├── UIPlanetaController.cs
+│   │   ├── PlanetaInfo.cs
+│   │   ├── OrbitaPlaneta.cs
+│   │   └── RotacaoLocal.cs
+│   ├── Models/
+│   │   └── [Modelos 3D dos planetas]
+│   ├── Prefabs/
+│   │   └── [Planets of the Solar System]
+│   └── UI/
+│       └── [Canvas e elementos de UI]
+├── ProjectSettings/
+├── .gitignore
+└── README.md
+---
+
+## 🔍 Scripts Principais
+
+### GazeManager.cs
+Gerenciador central de toda a lógica de interação
+- Raycast contínuo
+- Timer de foco (2 segundos)
+- Controle do fluxo de áudio
+- Retorno automático
+
+### CameraZoom.cs
+Anima câmera com zoom adaptativo
+- Cálculo automático de distância
+- Posicionamento relativo ao Sol
+- Animação suave com SmoothStep
+
+### GazeCursor.cs
+Indicador visual de progresso
+- Muda cor do crosshair
+- Preenche círculo verde
+- Integração com painel
+
+### OrbitaPlaneta.cs
+Controla órbitas dos planetas
+- Rotação ao redor do Sol
+- Flag de pausa inteligente
+- Velocidades customizáveis
+
+### RotacaoLocal.cs
+Rotação local de cada planeta
+- Usa unscaledDeltaTime
+- Velocidades realistas por planeta
+
+---
+
+## 🎓 Aplicações Educacionais
+
+Este projeto pode ser utilizado em:
+
+✓ **Escolas** - Salas de aula virtuais de Astronomia  
+✓ **Museus** - Centros de ciência interativos  
+✓ **Educação à Distância** - Plataformas de aprendizado online  
+✓ **Educação Não Formal** - Feiras de ciência, workshops  
+✓ **Pesquisa** - Estudos sobre eficácia de RV na educação  
+
+---
+
+## 🤝 Contribuindo
+
+Contribuições são bem-vindas! Para contribuir:
+
+1. Faça um **Fork** do projeto
+2. Crie uma **branch** para sua feature (`git checkout -b feature/AmazingFeature`)
+3. Faça **commit** de suas mudanças (`git commit -m 'Add some AmazingFeature'`)
+4. Faça **push** para a branch (`git push origin feature/AmazingFeature`)
+5. Abra um **Pull Request**
+
+---
+
+## 📝 Problemas Conhecidos
+
+- Testes em VR real (headsets) ainda não foram realizados
+
+---
+
+## 📄 Documentação
+
+- 🎬 [Vídeo de Demonstração]((https://www.youtube.com/watch?v=w0Ib6VzU_YA))
+- 💾 [Repositório GitHub]((https://github.com/cadu-ers/-MUSEU-IMERSIVO-DO-SISTEMA-SOLAR.git)) - Código-fonte
+
+---
+
+## 👥 Autores
+
+| Nome | Função | Contato |
+|------|--------|---------|
+| **Carlos Eduardo Rodrigues Silva** | Desenvolvedor Principal | [GitHub](https://github.com/cadu-ers) |
+| **Melck Silva de Oliveira Nascimento** | Desenvolvedor Principal | [GitHub]((https://github.com/MelckSilva)) |
+
+---
+
+<div align="center">
+
+**Desenvolvido com ❤️ para revolucionar a educação científica através da Realidade Virtual**
+
+⭐ Se este projeto foi útil, não esqueça de dar uma estrela! ⭐
+
