@@ -261,8 +261,8 @@ Contribuições são bem-vindas! Para contribuir:
 
 ## 📄 Documentação
 
-- 🎬 [Vídeo de Demonstração]((https://www.youtube.com/watch?v=w0Ib6VzU_YA))
-- 💾 [Repositório GitHub]((https://github.com/cadu-ers/-MUSEU-IMERSIVO-DO-SISTEMA-SOLAR.git)) - Código-fonte
+- 🎬 [Vídeo de Demonstração](https://www.youtube.com/watch?v=w0Ib6VzU_YA)
+- 💾 [Repositório GitHub](https://github.com/cadu-ers/-MUSEU-IMERSIVO-DO-SISTEMA-SOLAR.git) - Código-fonte
 
 ---
 
