@@ -271,7 +271,7 @@ Contribuições são bem-vindas! Para contribuir:
 | Nome | Função | Contato |
 |------|--------|---------|
 | **Carlos Eduardo Rodrigues Silva** | Desenvolvedor Principal | [GitHub](https://github.com/cadu-ers) |
-| **Melck Silva de Oliveira Nascimento** | Desenvolvedor Principal | [GitHub]((https://github.com/MelckSilva)) |
+| **Melck Silva de Oliveira Nascimento** | Desenvolvedor Principal | [GitHub](https://github.com/MelckSilva) |
 
 ---
 
