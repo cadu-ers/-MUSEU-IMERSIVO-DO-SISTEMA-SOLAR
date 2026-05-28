@@ -18,7 +18,7 @@
 
 ## 📚 Sobre
 
-Museu Imersivo do Sistema Solar é um ambiente de Realidade Virtual desenvolvido em Unity 6 que permite aos usuários explorar os 9 planetas do sistema solar de forma imersiva e educativa. 
+Museu Imersivo do Sistema Solar é um ambiente de Realidade Virtual desenvolvido em Unity 6 que permite aos usuários explorar os 8 planetas do sistema solar de forma imersiva e educativa. 
 
 O projeto implementa **detecção de olhar (gaze detection)** como principal mecanismo de interação, criando uma experiência **100% acessível e hands-free** (sem necessidade de controladores).
 
